@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Kanak Rawal 👋
 
-<!--
-**Rawal06/Rawal06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Cyber Security Student
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am passionate about Cyber Security and Networking.
+
+I enjoy learning by building practical projects instead of only studying theory.
+
+Currently, I am improving my skills in Python, Networking, Linux, and Cyber Security.
+
+---
+
+## 🌱 Currently Learning
+
+- Python
+- Networking
+- Linux Basics
+- Git & GitHub
+- Cyber Security
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- C Programming
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- VS Code
+- Cisco Packet Tracer
+
+---
+
+## 📂 Current Project
+
+🛡 **SentinelScan**
+
+A Network Security Scanner built using Python.
+
+🚧 Currently Under Development.
+
+---
+
+## 🎯 Goal
+
+To become a skilled Cyber Security Engineer by continuously learning, building projects, and solving real-world security challenges.
